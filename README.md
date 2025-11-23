@@ -741,7 +741,7 @@ Teuton Master. Improves Anti-cavalry Capabilities of Infantry.
 - Mobile Dropoff.
 - Low Armor.
 
-<img width="44" height="24" alt="civ_icon_small_goh" src="https://github.com/user-attachments/assets/b8879d36-761c-4b4d-8149-0ca29f0fa233" />Golden Horde [Technology]
+<img width="44" height="24" alt="civ_icon_small_goh" src="https://github.com/user-attachments/assets/b8879d36-761c-4b4d-8149-0ca29f0fa233" /> Golden Horde [Technology]
 -
 
 - Ovoo Stone gather rate improved.
