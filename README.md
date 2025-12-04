@@ -6,6 +6,7 @@ This mod adds Heroes and Heroes classes to Legion x Legion Commander Mod. With t
 -
 Universal Changes:
 - Projectiles lifetime increased to 18 seconds.
+- Changed Emplacement cost. Doesn't always cost Stone/Gold.
 - Outposts can be upgraded with all Emplacement, Reinforces for 3 times.
 - Stone Towers can be upgraded with all emplacement. Reinforces for 4 times.
 - Keep can be reinforces for 3 times. Reduced Stone Cost from 900 to 650.
